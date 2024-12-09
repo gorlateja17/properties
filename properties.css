@@ -1,0 +1,32 @@
+.main {
+    border: 1px black solid;
+    width: 1500px;
+
+}
+
+.a,
+.b,
+.c,
+.d,
+.e,
+.f,
+.g,
+.h {
+    position: relative;
+    width: 350px;
+    height: 200px;
+    border: red solid;
+    display: inline-block;
+    text-align:top;
+
+
+}
+h1{
+    position:absolute;
+    top: 0ch;
+    margin-top: 1px;
+    background-color: black;
+    color: whitesmoke;
+    t
+    width: 100%;
+}
